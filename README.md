@@ -1,2 +1,0 @@
-# learningGit
-Some readme
