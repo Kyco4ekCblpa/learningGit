@@ -10,3 +10,4 @@ let n = 5,
     b = 15;
 
 console.log(b % a);
+
